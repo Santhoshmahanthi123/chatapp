@@ -9,6 +9,13 @@
   "author": "santhosh kumar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "finalhandler": "^1.1.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "node-static": "^0.7.11",
+    "serve-static": "^1.13.2",
+    "url": "^0.11.0",
+    "websocket": "^1.0.28"
   }
 }
